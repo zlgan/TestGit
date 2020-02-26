@@ -1,0 +1,65 @@
+[33mcommit b4773c1ebe6d560f927e1d502b9fc0af75ad509f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <278408588@qq.com>
+Date:   Wed Feb 26 11:13:21 2020 +0800
+
+    add txt4
+
+[1mdiff --git a/txt4 b/txt4[m
+[1mnew file mode 100644[m
+[1mindex 0000000..72943a1[m
+[1m--- /dev/null[m
+[1m+++ b/txt4[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32maaa[m
+
+[33mcommit 40a42ccd279d5b3b5e3084d77e09339c671e2adb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ce1ab54 eaf67b2
+Author: unknown <278408588@qq.com>
+Date:   Wed Feb 26 08:01:51 2020 +0800
+
+    Merge branch 'master' of github.com:zlgan/TestGit
+    update local
+
+[33mcommit ce1ab54a8e83a7a284fe12ebd6f1de88d1049f8b[m
+Author: unknown <278408588@qq.com>
+Date:   Wed Feb 26 07:56:28 2020 +0800
+
+    add txt3
+
+[1mdiff --git a/txt3 b/txt3[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5d308e1[m
+[1m--- /dev/null[m
+[1m+++ b/txt3[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32maaaa[m
+
+[33mcommit eaf67b2eb2651772880b6f7b75c2e79b904529db[m
+Author: unknown <278408588@qq.com>
+Date:   Wed Feb 26 07:55:10 2020 +0800
+
+    add txt2
+
+[1mdiff --git a/txt2 b/txt2[m
+[1mnew file mode 100644[m
+[1mindex 0000000..72943a1[m
+[1m--- /dev/null[m
+[1m+++ b/txt2[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32maaa[m
+
+[33mcommit 58b802fca918b9da15811a521b893cff6dfea564[m
+Author: zlgan <36737435+zlgan@users.noreply.github.com>
+Date:   Wed Feb 26 07:32:20 2020 +0800
+
+    Create txt1
+    
+    first commit
+
+[1mdiff --git a/txt1 b/txt1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..95f3e72[m
+[1m--- /dev/null[m
+[1m+++ b/txt1[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32maaaaaaaaaaaaaa[m
